@@ -20,3 +20,7 @@ venv/
 *.out
 *.exe
 a.out
+
+# Claude files (local only)
+CLAUDE.md
+Claude Prompt — Interview Preparation Repository.md
