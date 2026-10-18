@@ -2,7 +2,7 @@
 
 My single, long-term knowledge base for technical interview preparation — DSA, core CS fundamentals, and system design. Built to be revisited months or years from now, not just for the next interview.
 
-**Background:** 4+ years as a Python backend / GenAI engineer (Django, REST APIs, AWS Bedrock, RAG systems). Learning DSA from the ground up — following the [Apna College](https://www.apnacollege.co/) DSA course in C++, then reimplementing every concept in Python, since Python is my primary/target language.
+**Background:** 4+ years as a Python backend / GenAI engineer (Django, REST APIs, AWS Bedrock, RAG systems). Learning DSA from the ground up — following the DSA course in C++, then reimplementing every concept in Python, since Python is my primary/target language.
 
 ## How this repo is organized
 
