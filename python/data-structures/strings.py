@@ -52,3 +52,22 @@ print("123".isdigit())  # Checking if all characters are digits
 name, age = "John", 25
 print("My name is john and I am 25 years old.")  # Old way of formatting strings
 print(f"My name is {name} and I am {age} years old.")  # New way of formatting strings
+
+
+res = {
+    "o": 2,
+    "i": 2,
+    "a":1,
+}
+# find count of vowel in a string
+s="Python is a programming language."
+vowels = "aeiouAEIOU"
+count = 0
+result = {}
+for char in s:
+    if char in vowels:
+        count += 1
+        result[char] = result.get(char, 0) + 1
+
+print(f"Total vowels: {count}")
+print("Vowel counts:", result)
